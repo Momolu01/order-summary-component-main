@@ -27,7 +27,7 @@ section.card {
   position: relative;
   top: 50%;
   left: 50%;
-  transform: rotate(30deg);
+  transform: translate(-50%, -50%);
 
   border-radius: 20px;
 }
