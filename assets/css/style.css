@@ -30,6 +30,8 @@ section.card {
   transform: translate(-50%, -50%);
 
   border-radius: 20px;
+
+  box-shadow: 0 15px 30px hsla(245, 75%, 52%, 0.267);
 }
 .header_card {
   border-top-left-radius: inherit;
